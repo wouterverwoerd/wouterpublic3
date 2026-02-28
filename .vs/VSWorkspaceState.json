@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\home",
+    "\\src\\users",
+    "\\src\\_components",
+    "\\src\\_helpers",
+    "\\src\\_services"
+  ],
+  "SelectedNode": "\\webpack.config.js",
+  "PreviewInSolutionExplorer": false
+}

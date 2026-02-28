@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\app\\Index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\Index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\user.service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_services\\user.service.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_services\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_helpers\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fetch-wrapper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_helpers\\fetch-wrapper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\home\\Index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\home\\Index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\role.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_helpers\\role.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fake-backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\_helpers\\fake-backend.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.service.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\user.service.js",
+              "RelativeDocumentMoniker": "src\\_services\\user.service.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\user.service.js",
+              "RelativeToolTip": "src\\_services\\user.service.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-22T05:20:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fetch-wrapper.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fetch-wrapper.js",
+              "RelativeDocumentMoniker": "src\\_helpers\\fetch-wrapper.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fetch-wrapper.js",
+              "RelativeToolTip": "src\\_helpers\\fetch-wrapper.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:37:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.jsx",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\app\\Index.jsx",
+              "RelativeDocumentMoniker": "src\\app\\Index.jsx",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\app\\Index.jsx",
+              "RelativeToolTip": "src\\app\\Index.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T23:35:29.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\index.js",
+              "RelativeDocumentMoniker": "src\\_helpers\\index.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\index.js",
+              "RelativeToolTip": "src\\_helpers\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:35:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.jsx",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\index.jsx",
+              "RelativeDocumentMoniker": "src\\index.jsx",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\index.jsx",
+              "RelativeToolTip": "src\\index.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T23:34:36.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.jsx",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\home\\Index.jsx",
+              "RelativeDocumentMoniker": "src\\home\\Index.jsx",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\home\\Index.jsx",
+              "RelativeToolTip": "src\\home\\Index.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T23:34:48.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\index.js",
+              "RelativeDocumentMoniker": "src\\_services\\index.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_services\\index.js",
+              "RelativeToolTip": "src\\_services\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:34:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\webpack.config.js",
+              "RelativeDocumentMoniker": "webpack.config.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\webpack.config.js",
+              "RelativeToolTip": "webpack.config.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:31:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "role.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\role.js",
+              "RelativeDocumentMoniker": "src\\_helpers\\role.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\role.js",
+              "RelativeToolTip": "src\\_helpers\\role.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:37:25.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fake-backend.js",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fake-backend.js",
+              "RelativeDocumentMoniker": "src\\_helpers\\fake-backend.js",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\src\\_helpers\\fake-backend.js",
+              "RelativeToolTip": "src\\_helpers\\fake-backend.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T23:36:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-06T23:35:41.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\wouter\\docs\\mysql_react_example\\react-hook-form-crud-example-master\\react-hook-form-crud-example-master\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T23:35:12.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
